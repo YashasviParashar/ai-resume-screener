@@ -77,25 +77,5 @@ uvicorn app.main:app --reload
 - YASHASVI - https://www.linkedin.com/in/yashasvi-parashar-662817322?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - MAHAK - https://www.linkedin.com/in/mahak-gilhotra-2680223aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
-## 📌 Note
-This is a partial implementation submitted for Milestone 2.
-Full project will be completed by [your deadline].
-```
 
----
 
-### Step 5 — Commit the files
-
-After uploading scroll down → type commit message:
-```
-Initial commit - 25% implementation (Milestone 2)
-```
-Click **"Commit changes"**
-
----
-
-### Step 6 — Copy your URL
-
-Your URL will look like:
-```
-https://github.com/YourUsername/ai-resume-screener
