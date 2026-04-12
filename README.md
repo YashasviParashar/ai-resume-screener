@@ -1,5 +1,5 @@
 # ⚡ AI Resume Screening System
-> B.Tech CSE Project — 2nd Year | Partial Implementation (25% Complete)
+> B.Tech CSE Project — 2nd Year 
 
 ![Work In Progress](https://img.shields.io/badge/Status-Work%20In%20Progress-orange)
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
